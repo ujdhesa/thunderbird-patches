@@ -79,4 +79,3 @@ set lecho=C:\mozilla-build\msys\bin\lessecho.exe
 %lecho% "file-new-movemail-account ="               >> localization\sq\messenger\menubar.ftl
 %lecho% "    .label = Llogari Movemail…"            >> localization\sq\messenger\menubar.ftl
 %lecho% "    .accesskey = M"                        >> localization\sq\messenger\menubar.ftl
-
